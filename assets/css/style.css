@@ -101,8 +101,10 @@ p {
     color: #ffffff;
 } */
 .benefit-lead, .benefit-brand, .benefit-cost
-    {margin-bottom: 32px;
-    color: #ffffff;}
+{
+        margin-bottom: 32px;
+    color: #ffffff;
+}
 
 
 /* all are h3 so it can be condensed */
@@ -122,8 +124,10 @@ p {
 } */
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3
-    {margin-bottom: 10px;
-        text-align: center;}
+{
+    margin-bottom: 10px;
+    text-align: center;
+}
 
 /* can be condensed all are img */
 /* .benefit-lead img {
@@ -143,8 +147,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 } */
-.benedit-lead img, .benefit-brand img, .benefit-cost img
-    {display: block;
+.benefit-lead img, .benefit-brand img, .benefit-cost img
+{   
+    display: block;
     margin: 10px auto;
     max-width: 150px;
 }
